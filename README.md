@@ -8,7 +8,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 
 ## SCREENSHOTS
 
-- 
+- /home/devryan/portfolio8/Screenshot 2023-09-19 at 04-22-39 My Portfolio.png
 
 
 ********
